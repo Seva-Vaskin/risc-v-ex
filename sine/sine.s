@@ -1,13 +1,9 @@
 .globl sine
 
-default_answer = 0x312d
-
 .section .data
 # if you need some data, put it here
 var:
 .align 8
-.space 100
-
 
 .section .text
 
