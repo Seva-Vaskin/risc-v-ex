@@ -2,8 +2,6 @@
 
 .section .data
 # if you need some data, put it here
-var:
-.align 8
 
 .section .text
 
